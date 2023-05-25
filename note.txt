@@ -1,0 +1,30 @@
+Git and GitHub
+-------------
+
+version control system
+
+remote repository - github storage
+local repository  - system storage
+
+Git operations
+--------------
+
+push  - local repo to remote repo  - upload new project and updates
+clone - remote repo to local repo  - downloading exact copy
+pull  - remote to local            - downloading new updates
+
+
+push
+----
+
+1-git add    - local storage to staging area 
+2-git commit - staging area to local repository
+
+
+developer side           |       GitHub side
+-------------------------------------------------               
+local storage            |
+ (git add)                      remote repository
+staging area             |
+ (git commit)
+local repository         |  
